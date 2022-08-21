@@ -8,5 +8,7 @@ for(let topping of pizzaToppings){
     console.log(topping);
 }
 
-
-
+function add(num_1, num_2){
+    return num_1 + num_2;
+}
+console.log(add(3, 8));

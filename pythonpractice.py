@@ -6,3 +6,6 @@ pizzaToppings =["pepperoni", "mushrooms", "pineapple"]
 for topping in pizzaToppings:
     print(topping)
 
+def add(num_1, num_2):
+    return num_1 + num_2
+print(add(3, 8))
